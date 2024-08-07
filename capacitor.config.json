@@ -1,0 +1,6 @@
+{
+  "appId": "com.biagito.BiagioHub",
+  "appName": "BiagioHub",
+  "webDir": "public",
+  "bundledWebRuntime": false
+}
